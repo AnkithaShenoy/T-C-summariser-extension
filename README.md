@@ -1,6 +1,6 @@
 # AI-powered T&C Summarizer and Policy Compliance Web Extension
 
-![Extension Screenshot](screenshot.png) <!-- Replace with actual image path -->
+!(output.jpg)
 
 ## Problem Statement
 
