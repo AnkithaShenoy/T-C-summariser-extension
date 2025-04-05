@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>T&C Summarizer</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <h1>T&C Summarizer</h1>
+    <div id="status">Analyzing current page...</div>
+    <div id="summary-container" class="hidden">
+      <h2>Key Points</h2>
+      <div id="summary-content"></div>
+      <h2>Privacy Alerts</h2>
+      <div id="privacy-alerts"></div>
+      <h2>Important Clauses</h2>
+      <div id="important-clauses"></div>
+    </div>
+    <button id="analyze-btn">Analyze Page</button>
+    <div class="loading hidden" id="loading">
+      <div class="spinner"></div>
+      <p>Processing...</p>
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
