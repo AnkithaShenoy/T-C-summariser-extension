@@ -1,6 +1,6 @@
 import google.generativeai as genai
 import os
-# https://generativelanguage.googleapis.com/v1/models/gemini-2.0-flash:generateContent?key=AIzaSyDzf8JbW6ok9yLDYY46txjRIdCyGl2_H70
+
 
 genai.configure(api_key="your key")
 
