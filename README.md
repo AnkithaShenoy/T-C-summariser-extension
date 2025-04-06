@@ -1,6 +1,6 @@
 # AI-powered T&C Summarizer and Policy Compliance Web Extension
 
-![Extension Screenshot](Summarizer-output.jpg)
+![Extension Screenshot](Summarizer output.jpg)
 ## Problem Statement
 
 Privacy policies and terms & conditions documents are:
