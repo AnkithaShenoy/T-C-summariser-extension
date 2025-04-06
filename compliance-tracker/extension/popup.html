@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Compliance Monitor</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 15px;
+      width: 250px;
+    }
+    .status {
+      margin-top: 10px;
+      padding: 10px;
+      border-radius: 5px;
+    }
+    .safe {
+      background-color: #d4edda;
+      color: #155724;
+    }
+    .flagged {
+      background-color: #f8d7da;
+      color: #721c24;
+    }
+  </style>
+</head>
+<body>
+  <h3>Compliance Check</h3>
+  <div id="domain">Loading...</div>
+  <div id="result" class="status">Checking...</div>
+  <script src="popup.js"></script>
+</body>
+</html>
