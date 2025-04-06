@@ -1,6 +1,6 @@
 # AI-powered T&C Summarizer and Policy Compliance Web Extension
 
-![output screenshot](output.jpg)
+![output screenshot](Terms and Condition Summarizer/output.jpg)
 
 ## Problem Statement
 
